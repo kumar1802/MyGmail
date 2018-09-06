@@ -31,6 +31,5 @@ public class GmailController {
 		return "master";
 	}
 	/* this is a comment */
-	private int ok;
-	private int notok;
+	private int okk;
 }
