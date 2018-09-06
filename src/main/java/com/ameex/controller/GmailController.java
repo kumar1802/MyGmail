@@ -25,6 +25,6 @@ public class GmailController {
 		return "hi";
 	}
 	public String gmailBranch() {
-		return "ok";
+		return "ook";
 	}
 }
