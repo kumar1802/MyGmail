@@ -27,4 +27,7 @@ public class GmailController {
 	public String gmailBranch() {
 		return "ook";
 	}
+	public String masterbranch() {
+		return "master";
+	}
 }
