@@ -24,4 +24,7 @@ public class GmailController {
 	public String myhome() {
 		return "hi";
 	}
+	public String gmailBranch() {
+		return "ok";
+	}
 }
